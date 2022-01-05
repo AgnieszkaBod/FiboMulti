@@ -1,4 +1,4 @@
-# MultiFibo
+# FiboMulti
 
 ## Projekt został wykonany na podstawie zadania 9.
 
